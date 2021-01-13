@@ -16,6 +16,7 @@ https://blogpostonrails.herokuapp.com/
 To edit add or remove posts, you can create an account or just use:
 
 **Username:** test@my.app
+
 **Pass:** test1234
 
 -----------------------------------------------------
