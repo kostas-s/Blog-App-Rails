@@ -13,10 +13,5 @@ A web application for posting and reading short articles.
 ## Deployed on Heroku
 https://blogpostonrails.herokuapp.com/
 
-To edit add or remove posts, you can create an account or just use:
-
-**Username:** test@my.app
-
-**Pass:** test1234
-
+To edit add or remove posts, you can create an account with any credentials!
 -----------------------------------------------------
